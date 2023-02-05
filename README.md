@@ -25,6 +25,8 @@ Steps healthcare organizations can  take to improve their cybersecurity and prot
       
       iii.  It is also crucial that organizations have a comprehensive data backup and recovery plan in place, to minimize the impact of any data breaches.  
       iv.  Investment  in employee training programs, to educate staff on the importance of cybersecurity and to reduce the risk of human error. This could include training on topics such as how to identify and avoid phishing scams, and how to securely handle sensitive patient information.  
+      
+      
 In addition, healthcare organizations should work with their suppliers and partners to ensure that they are also taking appropriate measures to protect patient data. This could include requiring vendors to sign service level agreements that outline the security measures they have in place, or conducting regular security audits to ensure that they are complying with relevant regulations and standards.
 Finally, healthcare organizations must also be prepared to respond to cyber incidents and data breaches. This requires the development of an incident response plan, which outlines the steps that should be taken in the event of a security breach. This should include procedures for reporting the incident, notifying affected patients, and communicating with relevant stakeholders, such as regulators and law enforcement agencies.
 
