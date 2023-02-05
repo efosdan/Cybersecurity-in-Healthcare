@@ -17,12 +17,12 @@ Cybersecurity risks in the healthcare sector are not limited to just data breach
 The risks posed by cybersecurity threats in the healthcare sector are further compounded by the fact that healthcare organizations hold sensitive patient information that is of high value to cybercriminals. Personal health information (PHI) can be used for a range of malicious purposes, including identity theft, fraud, and insurance scams. Furthermore, the complexity of the healthcare sector, with its many interconnected systems, networks, and devices, makes it a particularly attractive target for cybercriminals.
 
 
-The importance of cybersecurity in healthcare cannot be overstated. The protection of patient data and information is a legal requirement under various regulations, including the Health Insurance Portability and Accountability Act (HIPAA) in the US, and the General Data Protection Regulation (GDPR) in the EU. Healthcare organizations must ensure that they have robust cybersecurity measures in place to protect patient data, or they risk significant financial penalties and damage to their reputation. 
-Steps healthcare organizations can  take to improve their cybersecurity and protect patient data: 
-      i.  The first step is to conduct a thorough risk assessment, identifying areas of vulnerability and potential threats. 
-      ii.  Implementation of appropriate security controls, including firewalls, antivirus software, and encryption technologies. 
-      iii.  It is also crucial that organizations have a comprehensive data backup and recovery plan in place, to minimize the impact of any data breaches.
-      iv.  Investment  in employee training programs, to educate staff on the importance of cybersecurity and to reduce the risk of human error. This could include training on topics such as how to identify and avoid phishing scams, and how to securely handle sensitive patient information.
+The importance of cybersecurity in healthcare cannot be overstated. The protection of patient data and information is a legal requirement under various regulations, including the Health Insurance Portability and Accountability Act (HIPAA) in the US, and the General Data Protection Regulation (GDPR) in the EU. Healthcare organizations must ensure that they have robust cybersecurity measures in place to protect patient data, or they risk significant financial penalties and damage to their reputation.   
+Steps healthcare organizations can  take to improve their cybersecurity and protect patient data:   
+      i.  The first step is to conduct a thorough risk assessment, identifying areas of vulnerability and potential threats.   
+      ii.  Implementation of appropriate security controls, including firewalls, antivirus software, and encryption technologies.   
+      iii.  It is also crucial that organizations have a comprehensive data backup and recovery plan in place, to minimize the impact of any data breaches.  
+      iv.  Investment  in employee training programs, to educate staff on the importance of cybersecurity and to reduce the risk of human error. This could include training on topics such as how to identify and avoid phishing scams, and how to securely handle sensitive patient information.  
 In addition, healthcare organizations should work with their suppliers and partners to ensure that they are also taking appropriate measures to protect patient data. This could include requiring vendors to sign service level agreements that outline the security measures they have in place, or conducting regular security audits to ensure that they are complying with relevant regulations and standards.
 Finally, healthcare organizations must also be prepared to respond to cyber incidents and data breaches. This requires the development of an incident response plan, which outlines the steps that should be taken in the event of a security breach. This should include procedures for reporting the incident, notifying affected patients, and communicating with relevant stakeholders, such as regulators and law enforcement agencies.
 
@@ -32,5 +32,5 @@ Cybersecurity in healthcare is a critical issue that must be addressed to protec
 
 ## Sources
 1. https://www.aha.org/center/cybersecurity-and-risk-advisory-services/importance-cybersecurity-protecting-patient-safety
-2. 
+2. https://www.fiercehealthcare.com/it/california-hospital-pays-hackers-17k-after-ransomware-attack
 3.
