@@ -9,7 +9,7 @@ The healthcare industry is experiencing a rapid increase in the adoption of digi
 Health care organizations are particularly vulnerable and targeted by cyberattacks because they possess so much information of high monetary and intelligence value to cyber thieves and nation-state actors. The targeted data includes patients’ protected health information (PHI), financial information like credit card and bank account numbers, personally identifying information (PII) such as Social Security numbers, and intellectual property related to medical research and innovation.
 In fact, stolen health records may sell up to 10 times or more than stolen credit card numbers on the dark web. Unfortunately, the bad news does not stop there for health care organizations — the cost to remediate a breach in health care is almost three times that of other industries — averaging $408 per stolen health care record versus $148 per stolen non-health record.1
 
-![]()
+![](/images/cyber-security-compliance.jpeg)
 
 Cybersecurity risks in the healthcare sector are not limited to just data breaches. Malware attacks, phishing scams, and ransomware attacks can all result in the disruption of healthcare services, financial losses, and the loss of critical patient data. For example, in 2016, a ransomware attack on Hollywood Presbyterian Medical Center in California resulted in the hospital being forced to pay a $17,000 ransom to regain access to its EHR system. In another incident, in 2017, the WannaCry ransomware attack impacted hospitals across the UK, causing widespread disruption to patient care.
 
