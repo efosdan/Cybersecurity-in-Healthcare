@@ -1,4 +1,4 @@
-![]()
+![](/images/cyber_security.jpeg)
 
 ## Introduction
 
