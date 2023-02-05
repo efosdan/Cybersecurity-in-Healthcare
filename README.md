@@ -30,3 +30,7 @@ Finally, healthcare organizations must also be prepared to respond to cyber inci
 
 Cybersecurity in healthcare is a critical issue that must be addressed to protect patient data and information. With the increasing adoption of digital technologies, it is essential that healthcare organizations have robust cybersecurity measures in place to prevent data breaches and protect patient privacy. This requires a multi-faceted approach, including
 
+## Sources
+1. https://www.aha.org/center/cybersecurity-and-risk-advisory-services/importance-cybersecurity-protecting-patient-safety
+2. 
+3.
