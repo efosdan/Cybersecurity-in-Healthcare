@@ -41,3 +41,4 @@ Cybersecurity in healthcare is a critical issue that must be addressed to protec
 4. https://digitalguardian.com/blog/healthcare-cybersecurity-tips-securing-private-health-data
 5. https://en.wikipedia.org/wiki/Cyberattack
  
+.
